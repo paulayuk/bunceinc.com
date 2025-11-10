@@ -46,7 +46,7 @@ const BounceDataPlatformPage = () => {
                                         onMouseEnter={() => setIsProductsOpen(true)}
                                         onMouseLeave={() => setIsProductsOpen(false)}
                                     >
-                                        <a href="https://growth.bunce.so" className="block px-4 py-3 text-gray-700 hover:bg-gray-50 hover:text-gray-900">
+                                        <a href="https://bunce.so" className="block px-4 py-3 text-gray-700 hover:bg-gray-50 hover:text-gray-900">
                                             <div className="font-medium">Growth</div>
                                             <div className="text-sm text-gray-500">AI Powered Customer Engagement</div>
                                         </a>
@@ -93,7 +93,7 @@ const BounceDataPlatformPage = () => {
                                     {/* Mobile Dropdown */}
                                     {isProductsOpen && (
                                         <div className="ml-4 mt-2 space-y-3">
-                                            <a href="https://growth.bunce.so" className="block text-gray-600 hover:text-gray-900">
+                                            <a href="https://bunce.so" className="block text-gray-600 hover:text-gray-900">
                                                 <div className="font-medium">Growth</div>
                                                 <div className="text-sm text-gray-500">AI Powered Customer Engagement</div>
                                             </a>
@@ -323,7 +323,7 @@ const BounceDataPlatformPage = () => {
                             <ul className="space-y-3 lg:space-y-4 text-gray-400 text-sm">
 
                            
-                                <li><a href="https://growth.bunce.so" className="hover:text-white transition-colors">AI-powered Customer Engagement</a></li>
+                                <li><a href="https://bunce.so" className="hover:text-white transition-colors">AI-powered Customer Engagement</a></li>
                                 <li><a href="https://monitor.bunce.so" className="hover:text-white transition-colors">AI-powered Fraud Detection</a></li>
                             </ul>
                         </div>
