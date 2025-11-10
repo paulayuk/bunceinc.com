@@ -57,8 +57,8 @@ const BounceDataPlatformPage = () => {
                                     </div>
                                 )}
                             </div>
-                            <a href="#about-us" className="text-gray-700 hover:text-gray-900">About us</a>
-                            <a href="#contact-us" className="text-gray-700 hover:text-gray-900">Contact</a>
+                            <a href="#" className="text-gray-700 hover:text-gray-900">About us</a>
+                            <a href="#" className="text-gray-700 hover:text-gray-900">Contact</a>
                         </nav>
 
                         {/* Desktop CTA Button */}
